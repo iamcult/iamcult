@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @iamcult
-- 👀 I’m interested in Rust, Phython, ML
-- 🌱 I’m currently learning Python, Rust
-- 💞️ I’m looking to collaborate on open source projects
+hmm yes it is me.
 
 <!---
 iamcult/iamcult is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
